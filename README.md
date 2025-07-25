@@ -90,10 +90,3 @@ ask("Show me Figure 5 and Table B referenced in the section about speed adjustme
 **Q:** _Does preprocessing increase accuracy?_
 
 **A:** Yes. Clean, logically structured data allows the retrieval model to surface exact answers—rather than missing, irrelevant, or duplicated content.
-
-## Credits & License
-
-- Developed using open-source Python and LLM libraries.
-- For academic, research, or non-commercial use—consult repository license for details.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84246170/4392bbe1-2c74-4357-91a8-b1a6b285f4b0/rag_chatbot_structured.ipynb
