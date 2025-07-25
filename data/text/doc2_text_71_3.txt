@@ -1,0 +1,12 @@
+T999/D024   Shaft                    T999/D085   Screw
+  T999/D025  Rod                     T999/D086   Screw
+  T999/D026  Ring                     T999/D087   Lid
+  T999/D027  Spacer                   T999/D088   Screw
+  T999/D028  Key                     T999/D089   Support
+  T999/D029   Oil cup                   T999/D090   Screw
+  T999/D039  Knob                    T999/D091   Tin plate
+  T999/D040   Plug                     T999/D092   Support
+  T999/D041   Plug                     T999/D093   Shaft
+  T999/D041   Plug                     T999/D094    Elastic pin
+  T999/D042  Screw                   T999/D095   Rod
+  T999/D043   Protective device           T999/D096   Lid

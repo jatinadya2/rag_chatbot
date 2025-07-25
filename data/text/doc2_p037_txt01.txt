@@ -1,0 +1,16 @@
+1
+      -  Press the      button for a negative count in the direction of movement from the
+       outside towards the rotation axis.
+
+                          ENT                -  Press the     buttons and      to move to the next step.
+
+      -  Perform the above steps to set the measuring direction of the linear encoder
+       of the Y axes (Z if used)
+
+                                                    ENT               -  After each setting, press the     button and      to move to the next step.
+
+      -  Setting the list of tools.
+
+                     0    X  t o o l
+
+      -  Select the desired machine by pressing the corresponding button.

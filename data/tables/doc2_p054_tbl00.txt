@@ -1,0 +1,3 @@
+Ref . | Parts of the machine | Lubricatio n point | Type of lubricant | Frequency | Replacemen t frequency
+10 | Carriage rails | 4 | Oil 20 | Daily | /
+11 | Gears for threading | 1 | Oil 20 | Level indicator | 6 months

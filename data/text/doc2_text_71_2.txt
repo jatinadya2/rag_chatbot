@@ -1,0 +1,12 @@
+T999/D008  Spacer                   T999/D076   Bolt
+  T999/A009   Collar                    T999/D077   Bolt
+  T999/D010  Rack                    T999/D078   Nut
+  T999/D011  Rack                    T999/D079   Bath
+  T999/D013  Rack                    T999/D060   Screw
+  T999/D016  Main screw               T999/D081   Lid
+  T999/D019  Feed rod                 T999/D082   Left table support
+  T999/D022   Shaft                    T999/D083   Right table support
+  T999/D023  Spacer                   T999/D084   Lid
+  T999/D024   Shaft                    T999/D085   Screw
+  T999/D025  Rod                     T999/D086   Screw
+  T999/D026  Ring                     T999/D087   Lid

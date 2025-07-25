@@ -1,0 +1,11 @@
+Voltage / power supply frequency (V / Hz)                230/50.      400 / 50
+
+   Motor power (W)                                         1500/1800
+   Acoustic pressure level at operator's workstation
+                                                           84   (dB(A))
+
+
+
+
+
+ Page 10 of 84

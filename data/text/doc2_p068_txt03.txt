@@ -1,0 +1,11 @@
+T999/C016  Hub                     T999/C067    Spacer
+  T999/C017   Gear 37z                 T999/C068    Fork
+  T999/C018   Washer                   T999/C069    Fork
+  T999/C019   Washer                   T999/C073    Gasket
+  T999/C020   Washer                   T999/C074    Gasket
+  T999/C021   Gear 40z                 T999/C075    Gasket
+  T999/C022   Washer                   T999/C076    Gasket
+  T999/C023   Gear 37z                 T999/C077    Gasket
+  T999/C024   Locking nut               T999/C078    Gasket
+  T999/C025   Gear 43z                 T999/C079    Gasket
+  T999/C026   Gear 51z                 T999/C080    Gasket

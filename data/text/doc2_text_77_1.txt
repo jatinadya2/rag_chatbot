@@ -1,0 +1,10 @@
+Part No.      Description              Part No.      Description
+  T999/F001    Body                    T999/F022     Micrometer
+  T999/F002     Flange                  T999/F023     Lock
+  T999/F003    Hand wheel              T999/F026     Switch
+  T999/F004     Plate                    T999/F029    Knob
+  T999/F005    Base                    T999/F030    Knob
+  T999/F007    Sleeve                  T999/F031     Allen key
+  T999/F008    Screw                   T999/F032     Allen key
+  T999/F009    Washer                  T999/F033    Screw
+  T999/F010    Screw                   T999/F034    Screw

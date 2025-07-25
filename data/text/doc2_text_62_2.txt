@@ -1,0 +1,9 @@
+T999/B008     Conical plug               T999/B056     Stop
+   T999/B009     Bolt                     T999/B057     Stop
+   T999/B010     Selector                  T999/B058     Gear
+   T999/B011     Pin                      T999/B059     Gear
+   T999/B012     Support                  T999/B060    Key
+   T999/B013     Selector                  T999/B061     Gear
+   T999/B014     Pin                      T999/B062     Bearing
+   T999/B015     Support                  T999/B063     Gasket
+   T999/B016     Shaft                    T999/B064     Bearing cover

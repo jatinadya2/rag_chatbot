@@ -1,0 +1,14 @@
+Figure 13 – Position of the protective screens.
+LEGEND:
+1: Gearbox guard (fixed);
+2: Protective screen for the spindle (movable interlocked);
+The interlocking movable guards, are equipped with suitable safety switches, connected to
+the machine's control system (electric circuit), so that the opening of the movable screen
+causes the motion of the spindle and the dangerous moving parts to stop.
+
+
+     Checking the Safety devices
+
+  Each time the Lathe is used, check that the safety devices function and are positioned
+   properly.
+  In case of damage and/or breakage, do not use the machine.

@@ -1,0 +1,5 @@
+technique.
+ 25. The company safety officer is required to make sure that machine operators
+    have read and understood this manual in its entirety.
+ 26. Management is responsible for safety and verification of the company's risk
+     status according to Legislative Decree 81/08.

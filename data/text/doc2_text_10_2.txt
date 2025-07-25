@@ -1,0 +1,9 @@
+metals:
+       Cylindrical turning;
+       Taper turning;
+       Facing;
+       Profiling
+       Drilling;
+       Boring;
+       Threading;
+       Cutting / Breaking (from bar).

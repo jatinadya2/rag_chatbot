@@ -1,0 +1,11 @@
+Part No.    Description               Part No.     Description
+  T999/C001   Collar                    T999/C046    Small pin
+  T999/C002   Collar                    T999/C047   Cam
+  T999/C003   Back cover                T999/C048    Shaft
+  T999/C004   Back cover                T999/C050    Gear 51z
+  T999/C005   Pulley                    T999/C051    Spacer
+  T999/C006   Pin                      T999/C052    Shaft
+  T999/C007  Head                    T999/C053    Gear 30 z
+  T999/C008   Front cover               T999/C054    Shaft
+  T999/C009   Lever                    T999/C055    Shaft
+  T999/C010   Shaft support              T999/C056   Washer

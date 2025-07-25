@@ -1,0 +1,20 @@
+MACHINES AND
+                                                         ACCESSORIES
+
+3 TECHNICAL SPECIFICATIONS
+
+   Description (unit of measurement)             T999/230V   T999/400V
+
+   Centres distance (mm)                                     1000
+
+   Spindle hole diameter (mm)                                  38
+
+  Maximum swing over the bed (mm)                           320
+
+  Maximum swing over the cross slide (mm)                      198
+
+   Turning diameter over cavity (mm)                            470
+
+   Spindle diameter (3 + 3 self centring) (mm)                    160
+
+   Spindle connector                                       Camlock D1-4

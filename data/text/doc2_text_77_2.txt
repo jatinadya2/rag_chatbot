@@ -1,0 +1,10 @@
+T999/F008    Screw                   T999/F032     Allen key
+  T999/F009    Washer                  T999/F033    Screw
+  T999/F010    Screw                   T999/F034    Screw
+  T999/F011    Screw                   T999/F035    Screwfervi.comT999/F012    Screw                   T999/F036    Screw
+  T999/F013     Pin                     T999/F037    Nut
+  T999/F014    Screw                   T999/F038    Nut
+  T999/F015    Sleeve coupling           T999/F039    Key
+  T999/F016     Tie rod                  T999/F040    Washer
+  T999/F019     Pin                     T999/F041     Plug
+  T999/F020    Lever                   T999/F041     Bearing

@@ -1,0 +1,3 @@
+setting of the panel.                      F)
+                                                  C) Check  to see   if the  display                    C)  Setting unit is not correct.
+                                                               unit is Metric or Imperial.

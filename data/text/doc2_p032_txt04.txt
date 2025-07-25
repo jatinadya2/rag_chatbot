@@ -1,0 +1,6 @@
+carriage to the right (towards the tailstock), turn the handwheel clockwise and vice versa to
+move the carriage to the left (towards the spindle), rotate the handwheel anticlockwise.
+(M) Handwheel for transversal displacement of the tool holder slide: The handwheelallowsfervi.comthe transversal displacement, forward and backward, of the tool holder slide. To move
+the slide forward (towards the workpiece), turn the handwheel clockwise and vice versa to
+move the slide backward (towards the operator), rotate the handwheel anticlockwise.
+(N) Handwheel for longitudinal displacement of the tool holder slide: The handwheel

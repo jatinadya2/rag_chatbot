@@ -1,0 +1,40 @@
+Part No. | Description | Part No. | Description
+T999/E001 | Saddle | T999/E042 | Bearing
+T999/E002 | Slide | T999/E043 | Bearing
+T999/E003 | Rotating slide | T999/E044 | Screw
+T999/E004 | Upper slide | T999/E045 | Screw
+T999/E005 | Collar | T999/E046 | Screw
+T999/E006 | Gib | T999/E047 | Screw
+T999/E007 | Hub | T999/E048 | 
+T999/E008 | Strip | T999/E049 | 
+T999/E009 | Gib | T999/E050 | 
+T999/E010 | Stop | T999/E052 | 
+T999/E011 | Stop | T999/E053 | m
+T999/E012 | Hammer screw | T999/E054 | 
+T999/E013 | Lever base | T999/E055 | 
+T999/E014 | Lever |  | 
+T999/E015 | Stop | o | 
+T999/E016 | Screw |  | Adjustment grub screw
+T999/E017 | Micrometer |  | 
+T999/E018 | Switch | c | 
+T999/E019 | Switch |  | Washer
+T999/E020 | Collar | . | 
+T999/E022 | Washer | i | 
+T999/E023 | Nut |  | Oiler
+T999/E024 | Micrometer v | T999/E066 | Plug
+T999/E025 | Plate | T999/E067 | Shaft gear
+T999/E026 |  | T999/E069 | Bearing
+T999/E027 | r | T999/E070 | Allen key
+T999/E028 |  | T999/E071 | Lever
+T999/E029 | e | T999/E072 | Handle
+T999/E030 |  | T999/E073 | Spacer
+T999/E031 f |  | T999/E074 | Key
+T999/E032 |  | T999/E075 | Screw
+T999/E033 |  | T999/E076 | Key
+T999/E034 |  | T999/E077 | Thrusting bearing
+T999/E035 | T bolts | T999/E078 | Bearing housing
+T999/E036 | Threaded lock | T999/E079 | Bearing dust cover
+T999/E037 | Nut | T999/E080 | Washer
+T999/E038 | Switch cover | T999/E081 | Washer
+T999/E039 | Small brush | T999/E082 | Locking nut
+T999/E040 | Small brush | T999/E083 | Allen key

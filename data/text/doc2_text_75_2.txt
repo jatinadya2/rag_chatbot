@@ -1,0 +1,10 @@
+T999/E008     Strip                    T999/E049     Allen key
+  T999/E009    Gib                     T999/E050     Allen key
+  T999/E010    Stop                    T999/E052     Allen key
+  T999/E011    Stop                    T999/E053    Adjustment grub screw
+  T999/E012   Hammer screw           T999/E054    Adjustment grub screw
+  T999/E013    Lever base               T999/E055    Adjustment grub screw
+  T999/E014    Lever                   T999/E056    Adjustment grub screw
+  T999/E015    Stop                    T999/E057    Adjustment grub screw
+  T999/E016    Screw                   T999/E058    Adjustment grub screw
+  T999/E017    Micrometer               T999/E059    Nut

@@ -1,0 +1,10 @@
+Longitudinal        feed
+   6                        1             Oil             Daily         /        handwheel
+         Transverse         feed
+   7                        1             Oil             Daily         /        handwheel
+                                                              Level
+   8    Tool carriage           1             Oil 20                  6 months
+                                                                   indicator
+                                                              Level
+   9    Spindle gears          1             Oil 20                  6 months
+                                                                   indicator

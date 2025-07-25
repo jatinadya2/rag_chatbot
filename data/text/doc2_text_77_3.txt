@@ -1,0 +1,4 @@
+T999/F016     Tie rod                  T999/F040    Washer
+  T999/F019     Pin                     T999/F041     Plug
+  T999/F020    Lever                   T999/F041     Bearing
+  T999/F021    Nut                     T999/F042      Oiler

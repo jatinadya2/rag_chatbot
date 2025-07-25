@@ -1,0 +1,11 @@
+T999/E016    Screw                   T999/E058    Adjustment grub screw
+  T999/E017    Micrometer               T999/E059    Nut
+  T999/E018    Switch                  T999/E060    Nut
+  T999/E019    Switch                  T999/E061    Washer
+  T999/E020     Collar                   T999/E062    Screw
+  T999/E022    Washer                  T999/E063    Spring
+  T999/E023    Nut                     T999/E064     Oiler
+  T999/E024    Micrometer               T999/E066    Plug
+  T999/E025     Plate                    T999/E067    Shaft gear
+  T999/E026     Plate                    T999/E069    Bearing
+  T999/E027     Plate                    T999/E070     Allen key

@@ -1,0 +1,16 @@
+Checking the Emergency Button
+
+ Before starting any work on the machine, ensure that the emergency stop button functions.
+
+
+      In case of emergency
+
+ In an emergency, press the red emergency button to stop the machine.
+
+
+      Risk of abrasion and/or cutting
+
+   After pressing the stop or emergency switch, the spindle will continue to rotate by inertia.
+   Do not hold body parts near the moving spindle!
+
+ 9.2 Levers and control wheels

@@ -1,0 +1,12 @@
+Feed shaft
+   1                        2             Oil             Daily         /
+        and lead screw bearings:
+
+   2    Transverse feed casing   1             Oil             Daily         /
+
+          Tailstock   sleeve   and
+   3                        2             Oil             Daily         /
+        hand wheel
+
+   4    Transverse slide        2             Oil             Daily         /fervi.com
+   5    Longitudinal slide       3             Oil             Daily         /

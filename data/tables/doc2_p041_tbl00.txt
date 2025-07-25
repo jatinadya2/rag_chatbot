@@ -1,0 +1,8 @@
+MACHINES AND |  |  |  |  | 
+ACCESSORIES |   |  |  |  | 
+- | Press the CLS by pressing the and buttons. 0. 0 0 0 0. 0 0 0 | button (to switch to the relative coordinates) then reset the display of Y, X Y |  I |  N |  C
+- | Move the cutting tool to the A plane. 0. 0 0 0 - 1 0. 0 0 0 |  X Y |  I |  N C o |  m
+- | Move the cutting tool to the E plane. 0. 0 - 3 |  c . i |  |  | 
+- | Reset the Y display by pressing the r 0 e | v Y |  I | buttons. N |  C
+- | Move the cutting tool to the A plane. f 0. 0 0 0 2 0. 0 0 0  |  X Y |  I |  N |  C
+- | Press the | button (to switch to the absolute coordinates) |  |  |  Page 41 of 84

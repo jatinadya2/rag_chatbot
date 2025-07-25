@@ -1,0 +1,32 @@
+MACHINES AND
+ ACCESSORIES
+
+
+
+                 -  Press the     button (to switch to the relative coordinates) then reset the display of Y,
+
+
+                                                  CLS
+      by pressing the     and      buttons.
+
+               0. 0 0 0 X  I N C
+
+               0. 0 0 0 Y
+
+      -  Move the cutting tool to the A plane.
+
+                0. 0 0 0 X  I N C
+
+         -    1 0. 0 0 0 Y
+
+      -  Move the cutting tool to the E plane.
+
+                0. 0 0 0 X  I N C
+
+         -    3 0. 0 0 0 Y
+
+
+
+
+                                                                              CLS
+      -  Reset the Y display by pressing the     and      buttons.

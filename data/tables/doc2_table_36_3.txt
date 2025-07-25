@@ -1,0 +1,5 @@
+Button | v Machine
+0 | Multifunction milling machine
+1 | r Universal milling machine
+2 | Process unloader
+3 | Lathe

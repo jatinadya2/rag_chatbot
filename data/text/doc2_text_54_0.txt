@@ -1,0 +1,13 @@
+MACHINES AND
+ ACCESSORIES
+
+
+ 11.3.2     Tailstock alignment
+ When the tailstock is off-axis, it is necessary to correct its position by turning the adjustment
+ screw until aligned with the reference marks on the side plate.
+
+
+
+
+
+                                Figure 41 – Adjustment screw.

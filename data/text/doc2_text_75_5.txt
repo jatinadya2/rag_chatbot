@@ -1,0 +1,6 @@
+T999/E035    T bolts                  T999/E078    Bearing housing
+  T999/E036    Threaded lock            T999/E079    Bearing dust cover
+  T999/E037    Nut                     T999/E080    Washer
+  T999/E038    Switch cover             T999/E081    Washer
+  T999/E039    Small brush              T999/E082    Locking nut
+  T999/E040    Small brush              T999/E083     Allen key

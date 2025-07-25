@@ -1,0 +1,5 @@
+emergency, if pressure is applied to the mushroom button, the dangerous functions stop.
+ The electric control panel is powered by 24V DC voltage; the presence of a transformer
+ minimises the the danger of electrocution.
+ The Lathe's power supply connection must be equipped with a grounding conductor
+ according to regulations.

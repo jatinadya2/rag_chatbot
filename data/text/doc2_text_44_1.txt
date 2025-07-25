@@ -1,0 +1,15 @@
+The correction factor can be positive  if the displayed value is less than the actual length,
+ negative if the value displayed is higher.
+ The compensation range is ± 1.500 mm/m.
+
+ Ex. If the useful length of the Y axes is 1000 mm and the panel at the end of travel of the
+ carriage, reads 999.98 mm then S=(1000-999.98)/(1000/1000)=0.02 mm/m.
+ So to enter the compensation value it is necessary to:
+
+
+
+                                                                             M/
+      -  Select the Y axis by pressing the button        , pressing the      button displays the
+        correction factor S previously set.
+
+         s      0. 0 5 0 Y

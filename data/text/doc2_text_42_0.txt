@@ -1,0 +1,31 @@
+MACHINES AND
+ ACCESSORIES
+
+
+ 7 – Radius / Diameter display
+
+
+
+
+
+                            Figure 31 – Radius / Diameter display
+
+ The reference for axis X is the axis of spindle rotation (dashed line in Figure 31).
+
+      -  Move the cutting tool to point A.
+
+                5. 0 0 0 X
+
+
+
+               X      -  Press the     and      buttons to switch from viewing the radius to the diameter.
+
+              1 0. 0 0 0 X
+
+      -  Move the cutting tool to point B.
+
+              2 0. 0 0 0 X
+
+
+
+               X      -  Press the     and      buttons to switch from viewing the diameter to the radius.

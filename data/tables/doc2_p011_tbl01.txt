@@ -1,0 +1,14 @@
+axis, for the machining of metallic materials by means of cold chip removal. | 
+feed motion of the tool. | 
+direct control of the operator. | 
+4.1 Intended use and field of application | 
+The machine is designed and built | 
+metals: | 
+ | Cylindrical turning;
+ | Taper turning;
+ | Facing;
+ | Profiling
+ | Drilling;
+ | Boring;
+ | Threading;
+ | Cutting / Breaking (from bar).

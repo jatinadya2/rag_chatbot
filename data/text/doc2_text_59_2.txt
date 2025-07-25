@@ -1,0 +1,12 @@
+T999/A022   Gear with 63 Teeth         T999/A073  Screw
+  T999/A023   Ring                     T999/A074  Screw
+  T999/A024   Selector                  T999/A075  Screw
+  T999/A025   Lever                    T999/A076  Screw
+  T999/A026   Gear with 40 Teeth         T999/A077  Screw
+  T999/A028   Support                  T999/A078   Plug
+  T999/A029   Half nut                  T999/A079   Plug
+  T999/A030  Worm                    T999/A060   Plug
+  T999/A031   Gear with 22 Teeth         T999/A081   Plug
+  T999/A032   Shaft                     T999/A082   Plug
+  T999/A033   Gear 16 Teeth             T999/A083   Plug
+  T999/A034   Shaft                     T999/A084   Oiler

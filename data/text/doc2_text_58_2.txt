@@ -1,0 +1,4 @@
+T999/A008   Selector body              T999/A060  Screw
+   T999/A009   Selection lever             T999/A062  Screw
+   T999/A010   Micrometer                T999/A063  Screw
+   T999/A011   Cover                    T999/A064  Screw

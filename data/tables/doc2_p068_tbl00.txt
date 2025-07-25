@@ -1,0 +1,41 @@
+Part No. | Description | Part No. | Description
+T999/C001 | Collar | T999/C046 | Small pin
+T999/C002 | Collar | T999/C047 | Cam
+T999/C003 | Back cover | T999/C048 | Shaft
+T999/C004 | Back cover | T999/C050 | Gear 51z
+T999/C005 | Pulley | T999/C051 | Spacer
+T999/C006 | Pin | T999/C052 | Shaft
+T999/C007 | Head | T999/C053 | 
+T999/C008 | Front cover | T999/C054 | 
+T999/C009 | Lever | T999/C055 | 
+T999/C010 | Shaft support | T999/C056 | 
+T999/C011 | Cover | T999/C057 | m
+T999/C012 | Body | T999/C059 | 
+T999/C013 | Shaft | T999/C064 | 
+T999/C014 | Body |  | 
+T999/C015 | Pad | o | 
+T999/C016 | Hub |  | 
+T999/C017 | Gear 37z |  | 
+T999/C018 | Washer | c | 
+T999/C019 | Washer |  | 
+T999/C020 | Washer | . | 
+T999/C021 | Gear 40z | i | 
+T999/C022 | Washer |  | Gasket
+T999/C023 | Gear 37z v | T999/C077 | Gasket
+T999/C024 | Locking nut | T999/C078 | Gasket
+T999/C025 |  | T999/C079 | Gasket
+T999/C026 | r | T999/C080 | Gasket
+T999/C028 |  | T999/C081 | Oil level window
+T999/C029 | e | T999/C084 | Allen key M4 x 12
+T999/C030 |  | T999/C085 | Allen key M4 x 12
+T999/C031 f |  | T999/C086 | Allen key M4 x 12
+T999/C032 |  | T999/C087 | Allen key M4 x 12
+T999/C033 |  | T999/C088 | Allen key M4 x 12
+T999/C034 |  | T999/C089 | Allen key M4 x 12
+T999/C035 | Gear 46z | T999/C093 | Screw M6 x 12
+T999/C036 | Gear 38z | T999/C095 | Screw M8 x 8
+T999/C037 | Spacer | T999/C096 | Screw M8 x 10
+T999/C038 | Gear 26z | T999/C097 | Screw M8 x 12
+T999/C039 | Gear 34z | T999/C098 | Screw M8 x 16
+T999/C040 | Gear 53z | T999/C099 | Screw M8 x 40
+T999/C041 | Lid | T999/C100 | Screw M4 x 8

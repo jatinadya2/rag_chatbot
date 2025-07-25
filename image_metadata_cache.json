@@ -1,0 +1,445 @@
+{
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p001_img00_515.png": {
+    "I'm unable to extract information directly from images, but I can guide you on how to fill in the structure based on observing the surrounding text in the manual. Here's the format you should use once you find the details": "",
+    "Section header": "[Identify the most recent section heading from the manual text prior to the image]",
+    "Figure title": "[Look for text near the image that corresponds to a figure label]",
+    "Snippet": "[Provide a 200\u2013400 character snippet of text surrounding the figure title]",
+    "Purpose": "[Describe what the figure likely illustrates and its importance based on the context of the manual]"
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p001_img01_516.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p002_img00_2.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p002_img01_5.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p002_img02_8.png": {
+    "Here's an example of how to fill it out": "",
+    "Section header": "[Include the most recent section heading here]",
+    "Figure title": "[Include the figure title here]",
+    "Snippet": "[Include a 200\u2013400 character text snippet surrounding the figure title here]",
+    "Purpose": "[Describe what the figure illustrates and why it matters in the manual]"
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p003_img00_5.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p003_img01_2.png": {
+    "I can't extract metadata or analyze documents directly, but I can help guide you on how to do it. For analyzing a page from a machine user manual, follow these steps": "",
+    "1. **Section Header**": "Look for the most recent heading before the image.",
+    "2. **Figure Title**": "Locate any label under or near the image, such as \"Figure 5 \u2013 Speed Adjustment Panel.\"",
+    "3. **Snippet**": "Identify a text passage around the figure title, usually surrounding its description.",
+    "4. **Purpose**": "Read the related text to understand what the image illustrates and why it is relevant in context."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p006_img02_8.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p006_img03_18.png": {
+    "Certainly! Here's the extracted metadata formatted as requested": "",
+    "Section header": "5 MACHINE SAFETY DEVICES",
+    "Figure title": "Graphic representation of safety, operational and risk warnings",
+    "Snippet": "The following boxes are designed to attract the attention of the reader / user for the proper and safe use of the machine: Pay Attention. This highlights behavioural rules to prevent damage to the machine and/or the occurrence of dangerous situations. Residual Risks highlight the presence of dangers that cause residual risks to which the operator must pay attention in order to avoid injury or damage to property.",
+    "Purpose": "This figure illustrates safety labels and warnings essential for the proper and safe operation of the machine, emphasizing the importance of operator awareness of potential hazards."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p011_img02_18.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p012_img02_32.png": {
+    "Section header": "4 DESCRIPTION OF THE MACHINE",
+    "Figure title": "Figure 1 \u2013 Typical main groups of the bench lathe",
+    "Snippet": "There are two main groups within the Lathe (see figure 1): The spindle shaft unit; The sliding tool holder unit. The first is constituted by the spindle, which is made integral with the workpiece, and by the components that transmit motion from the motor to the spindle.",
+    "Purpose": "The figure illustrates the main structural components of the bench lathe, highlighting its spindle shaft and sliding tool holder units, which are crucial for understanding its operation and setup."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p013_img02_515.png": {
+    "Sure, here's the extracted information": "",
+    "Section header": "4.2 Description of the main parts",
+    "Figure title": "Figure 2 \u2013 Main parts of the gear head lathe (Art. T999/230V and T999/400V).",
+    "Snippet": "The Gear head lathe (Art. T999/230V e T999/400V) is a machine tool, with a horizontal axis, for the machining of metallic materials by means of cold chip removal. The cutting motion is given by the motion of the workpiece, rotating on its own axis, and the feed motion of the tool.",
+    "Purpose": "The figure illustrates the main parts of the gear head lathe, which is important for understanding its functionality and operation."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p014_img02_38.png": {
+    "I'm unable to access or extract the contents of the document directly. However, you can manually review the page to identify the required metadata based on the structure of the manual. Here's how you can proceed": "",
+    "1. **Section header**": "Look for the most recent heading preceding the illustration.",
+    "2. **Figure title**": "Check for a label beneath or near the illustration, such as \"Figure 5 \u2013 Speed Adjustment Panel.\"",
+    "3. **Snippet**": "Select 200\u2013400 characters of text surrounding the figure title.",
+    "4. **Purpose**": "Determine what the figure illustrates and why it is important within the context of the manual."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p014_img03_40.png": {
+    "Sure, here is the extracted information based on the provided context": "",
+    "**Section header": "** 4.2.3 Spindle speed adjustment levers",
+    "**Figure title": "** Figure 4 \u2013 Speed adjustment lever",
+    "**Snippet": "** The panel for the adjustment of the spindle rotation speed (see figure 4), is positioned at the left part of the machine, between the spindle and the feeding speed change gearbox. It is equipped with two levers for selection of the desired rotation speed, depending on the type of processing and the material.",
+    "**Purpose": "** The figure illustrates the speed adjustment lever panel, which is crucial for selecting the appropriate spindle rotation speed, ensuring optimal machining performance and material processing."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p015_img02_44.png": {
+    "Certainly! Here is the extracted metadata": "",
+    "**Section header": "** 4.2.4 Feed speed adjustment panel",
+    "**Figure title": "** Figure 5 \u2013 Speed adjustment panel",
+    "**Snippet": "** The panel for the adjustment of the spindle rotation speed (see figure 5), is positioned at the left part of the machine, under the spindle speed adjustment panel. The lathe is provided with gears that can guarantee the considerable availability of feeds and threads (metric and inch). The selection of the steps is made using 4 rotary knob switches which control the gear speed change.",
+    "**Purpose": "** The figure illustrates the speed adjustment panel, crucial for controlling the rotation speed and feed direction of the machine."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p015_img03_46.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p015_img04_48.png": {
+    "To find metadata in a manual": "",
+    "1. **Section Header**": "Look near the top of the page for any large-font headings. They often indicate the section you are reading.",
+    "2. **Figure Title**": "Search for bold or italicized text immediately before or after the image, usually labeled as \"Figure X.\"",
+    "3. **Snippet**": "Identify the relevant paragraphs around the figure title. Keep the text within a 200\u2013400 character limit for precision.",
+    "4. **Purpose**": "Determine the function or relevance of the illustration in the context of the manual, often described in the paragraphs near the image."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p016_img02_52.png": {
+    "Here's the information based on the provided text": "",
+    "Section header": "4.2.7 Steady rest",
+    "Figure title": "Figure 8 \u2013 Rests",
+    "Snippet": "In the operations of drilling, boring and facing, the tailstock cannot be used to secure the work piece. On the other hand, if the pieces are long and heavy, it is not enough to use only a self-centering spindle, but you must attach one end of the work piece using a tool called a steady rest (see figure 8).",
+    "Purpose": "The figure illustrates the steady rest tool, which is important for securing long and heavy workpieces during drilling, boring, and facing operations, ensuring stability and precision."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p016_img03_54.png": {
+    "Section header": "4.2.8 Electric control panel",
+    "Figure title": "Figure A",
+    "Snippet": "",
+    "WHITE WARNING LIGHT": "Indicates the presence of voltage",
+    "BLACK SELECTOR": "Coolant pump selector",
+    "GREEN BUTTON": "Gears application button",
+    "RED MUSHROOM": "EMERGENCY STOP\"",
+    "Purpose": "The figure illustrates the components of the electric control panel, highlighting the importance of safety and operational controls on the machine."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p016_img04_56.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p016_img05_58.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p017_img02_62.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p017_img03_64.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p017_img04_66.png": {
+    "Section header": "4.3 Identification plate",
+    "Figure title": "Figure 11 \u2013 Identification plate.",
+    "Snippet": "On the machine, and in particular on the feed speed change gearbox, there is the following identification plate (see Figure 11):",
+    "Purpose": "The figure illustrates the identification plate on the machine, providing essential information about the machine's specifications and compliance markings."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p017_img05_68.png": {
+    "Sure! Here is the extracted metadata": "",
+    "Section header": "4.3 Identification plate",
+    "Figure title": "Figure 11 \u2013 Identification plate.",
+    "Snippet": "On the machine, and in particular on the feed speed change gearbox, there is the following identification plate (see Figure 11):",
+    "Purpose": "The figure illustrates the identification plate of the machine, providing essential information such as the manufacturer, model, and technical specifications, which are crucial for maintenance and reference."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p017_img06_70.png": {
+    "Sure, here\u2019s the extracted metadata": "",
+    "Section header": "4.3 Identification plate",
+    "Figure title": "Figure 11 \u2013 Identification plate.",
+    "Snippet": "On the machine, and in particular on the feed speed change gearbox, there is the following identification plate (see Figure 11): fervi.com",
+    "Purpose": "The figure illustrates the identification plate on the machine, providing essential manufacturing and technical specifications crucial for proper identification and compliance."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p018_img04_78.png": {
+    "Sure! Here's the structured metadata": "",
+    "**Section header": "** 4.4 Pictograms and plates",
+    "**Figure title": "** Figure 12 - Pictograms",
+    "**Snippet": "** The following pictogram has been applied to the side of the electrical panel: Hazard / warning plate. Prohibitive warning for carrying out work on live equipment. The removal of safety guards is forbidden. Electrical hazard symbol.",
+    "**Purpose": "** The figure illustrates various safety pictograms that warn against hazardous activities, highlighting the importance of adhering to safety protocols to prevent accidents."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p018_img05_80.png": {
+    "Sure, here's the extracted metadata": "",
+    "Section header": "4.4 Pictograms and plates",
+    "Figure title": "Figure 12 - Pictograms",
+    "Snippet": "CAUTION AND WARNING PICTOGRAMS. The following pictogram has been applied to the side of the electrical panel: Hazard / warning plate. Prohibitive warning for carrying out work on live equipment. Hazard plate. The removal of safety guards is forbidden. Electrical hazard symbol...",
+    "Purpose": "The figure illustrates various safety pictograms to alert users about potential hazards and necessary precautions when operating the machine, ensuring compliance with safety regulations."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p018_img06_82.png": {
+    "Section header": "4.4 Pictograms and plates",
+    "Figure title": "Figure 12 - Pictograms",
+    "Snippet": "CAUTION AND WARNING PICTOGRAMS. The following pictogram has been applied to the side of the electrical panel: Hazard / warning plate. Prohibitive warning for carrying out work on live equipment. Electrical hazard symbol.",
+    "Purpose": "The figure illustrates caution and warning pictograms, highlighting their importance in preventing electrical hazards by warning users of potential dangers."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p020_img02_88.png": {
+    "Sure, here is the extracted metadata from the described manual page": "",
+    "**Section header": "** 5.2 Mechanical Safety Devices",
+    "**Figure title": "** Figure 13 \u2013 Position of the protective screens.",
+    "**Snippet": "** The screens and guards have the role of protecting the operator by preventing coolant, chips, splinters, tool fragments or even the workpiece, which may detach, from being projected towards the face or torso. The screens are fixed or mobile (see Figure 13).",
+    "**Purpose": "** This figure illustrates the position and function of protective screens, highlighting their importance in ensuring operator safety by preventing debris and parts from striking the operator."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p021_img03_93.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p021_img04_95.png": {
+    "Section header": "5.3 Personal Protective Equipment (PPE)",
+    "Figure title": "Figure 14 \u2013 Personal Protective Equipment",
+    "Snippet": "ALWAYS use appropriate personal protective equipment (PPE) such as (see Figure 14):",
+    "Purpose": "The figure illustrates the types of personal protective equipment recommended for safe machine operation, emphasizing user safety."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p021_img05_97.png": {
+    "Section header": "5.3 Personal Protective Equipment (PPE)",
+    "Figure title": "Figure 14 \u2013 Personal Protective Equipment",
+    "Snippet": "ALWAYS use appropriate personal protective equipment (PPE) such as (see Figure 14): Gloves; Goggles or face shields; Overalls or aprons; Safety shoes.",
+    "Purpose": "The figure illustrates the personal protective equipment necessary for safe machine operation, emphasizing the importance of safety gear to prevent injuries."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p021_img06_99.png": {
+    "Sure, here's the structured metadata extraction": "",
+    "Section header": "5.3 Personal Protective Equipment (PPE)",
+    "Figure title": "Figure 14 \u2013 Personal Protective Equipment",
+    "Snippet": "ALWAYS use appropriate personal protective equipment (PPE) such as (see Figure 14): Gloves; Goggles or face shields; Overalls or aprons; Safety shoes.",
+    "Purpose": "The figure illustrates various types of personal protective equipment, emphasizing their importance in ensuring user safety while operating machinery."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p021_img07_101.png": {
+    "I'm unable to provide the metadata directly from the image itself, but from the provided context, I can interpret the following": "",
+    "Section header": "5.3 Personal Protective Equipment (PPE)",
+    "Figure title": "Figure 14 \u2013 Personal Protective Equipment",
+    "Snippet": "\"ALWAYS use appropriate personal protective equipment (PPE) such as (see Figure 14): Gloves; Goggles or face shields; Overalls or aprons; Safety shoes.\"",
+    "Purpose": "The figure illustrates the types of personal protective equipment required for safe machine operation, emphasizing user safety to prevent injuries."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p025_img04_111.png": {
+    "Section header": "8.2 Support base",
+    "Figure title": "Figure 15 \u2013 Dimensions and fastening points",
+    "Snippet": "To ensure stability, excellent results and minimize vibrations, we recommend affixing the machine using the metal feet with threaded stems and rubber base. For the dimensions and the positions of the points of support, where the feet are put, see Figure 15.",
+    "Purpose": "The figure illustrates the dimensions and fastening points for securing the machine, which is essential for stability and minimizing vibrations."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p028_img02_120.png": {
+    "Section header": "9.1 Control buttons",
+    "Figure title": "Figure 16 - Main switch.",
+    "Snippet": "The main switch with safety key is located on the left side of the electric panel, and it is useful to prevent unauthorized use of the machine. To power the machine (see Figure 16), in fact, it is necessary to insert the safety key into the lock to the left of the switch (marked R.L.); turn the key clockwise and simultaneously turn the main switch to \"I\", by turning it clockwise.",
+    "Purpose": "The figure illustrates the main switch's location and operation, crucial for preventing unauthorized machine use and ensuring safe startup procedures."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p028_img03_54.png": {
+    "Section header": "9.1.2 Electric and control panel buttons and lights",
+    "Figure title": "Figure 17 \u2013 Electrical and control panel.",
+    "Snippet": "The electrical panel has the following controls: RED MUSHROOM: Emergency button (red mushroom). WHITE WARNING LIGHT: Indicates the presence of voltage. BLACK SELECTOR: Coolant pump selector. GREEN BUTTON: Gears application button.",
+    "Purpose": "The figure illustrates the layout and purpose of various controls on the electrical panel, which is crucial for understanding machine operation and safety."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p029_img04_124.png": {
+    "Certainly! Here's the extracted metadata": "",
+    "**Section header": "** 9.2 Levers and control wheels",
+    "**Figure title": "** Figure 18 \u2013 Speed adjustment knobs",
+    "**Snippet": "** \"The panel for the adjustment of the spindle rotation speed (see Figure 16), is positioned at the left part of the machine, between the spindle and the gearbox. It is equipped with two levers, marked with colours, letters and numbers, for selection of the desired rotation speed, depending on the type of processing and the material to be processed.\"",
+    "**Purpose": "** The figure illustrates the speed adjustment knobs crucial for selecting and adjusting the spindle speed for different processing tasks in the machine."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p029_img05_126.png": {
+    "Sure, here is the structured metadata": "",
+    "Section header": "9.2.1 Spindle speed adjustment knobs",
+    "Figure title": "Figure 18 \u2013 Speed adjustment knobs",
+    "Snippet": "The panel for the adjustment of the spindle rotation speed (see Figure 16), is positioned at the left part of the machine, between the spindle and the gearbox. It is equipped with two levers, marked with colours, letters and numbers, for selection of the desired rotation speed, depending on the type of processing and the material to be processed.",
+    "Purpose": "This figure illustrates the speed adjustment knobs, which are essential for setting the spindle rotation speed according to the processing requirements and material type."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p030_img02_130.png": {
+    "Section header": "9.2.2 Automatic feed speed adjustment knobs",
+    "Figure title": "Figure 19 - Feed adjustment knobs.",
+    "Snippet": "The panel for automatic feed speed adjustment (see Figure 19), is positioned at the left part of the machine, under the spindle rotation speed adjustment panel. The different speeds are selected via 4 knob switches which control the gear speed change (ref. F, G, H, I in Figure 19). There is also a fifth knob for selecting the feed direction of the carriage (ref. E in Figure 19).",
+    "Purpose": "The figure illustrates the feed adjustment knobs crucial for controlling the machine's feed speed and direction, ensuring proper operation and output."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p030_img03_132.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p030_img04_134.png": {
+    "I'm unable to extract text or detailed content from images, but I can help you understand what information might typically accompany a figure in a machine user manual": "",
+    "1. **Section header": "** This would usually be found just above or at the beginning of the section. It might be something like \"2.5 Control Panel Layout\" or relevant heading in the context of the figure.",
+    "2. **Figure title": "** This might appear directly above or below the figure. You would look for labels such as \"Figure 5 \u2013 Speed Adjustment Panel\".",
+    "3. **Snippet": "** Look for text surrounding the figure that describes its context, purpose, and any instructions related to it.",
+    "4. **Purpose": "** Generally, the purpose of a figure like this might be to illustrate how to operate a specific part of the machinery, such as a control panel, to help users understand the configuration and operation."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p031_img02_138.png": {
+    "Sure, here's the extracted metadata": "",
+    "Section header": "9.2.3 Adjustment knob / lever of the split casing",
+    "Figure title": "Figure 21 \u2013 Close-up of knob and lever.",
+    "Snippet": "The casing adjustment knob and lever for the transfer of motion from the lead screw to the tool holder carriage (see Figure 21), are located at the sides of the tool holder carriage itself. By turning the knob or lever 90\u00b0, the split casing \"closes\" on the lead screw, creating a rigid coupling between the two, and allowing the transfer of motion from the lead screw to the tool holder carriage.",
+    "Purpose": "The figure illustrates the adjustment knob and lever used for transferring motion to the tool holder carriage, essential for enabling automatic feed during threading operations."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p031_img03_140.png": {
+    "Section header": "9.2.3 Adjustment knob / lever of the split casing",
+    "Figure title": "Figure 21 \u2013 Close-up of knob and lever.",
+    "Snippet": "The casing adjustment knob and lever for the transfer of motion from the lead screw to the tool holder carriage (see Figure 21), are located at the sides of the tool holder carriage itself. By turning the knob or lever 90\u00b0, the split casing \"closes\" on the lead screw, creating a rigid coupling between the two...",
+    "Purpose": "The figure illustrates the adjustment knob and lever for controlling motion transfer, crucial for setting up automatic feed for threading operations."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p032_img02_144.png": {
+    "Section header": "9.2.4 Levers and handwheels of the carriage and tool holder slides",
+    "Figure title": "Figure 22 \u2013 Lever and handwheel of the carriage",
+    "Snippet": "On the tool holder carriage there are five manual controls (levers and handwheels) for carrying out fine adjustments and feeding (see Figure 22). (I) Split casing lever : See section 9.2.3. (J) Lever for selection of transverse or longitudinal feeds: The lever selects the type of automatic feed desired. To operate the transverse feed, forward and backward, move the lever...",
+    "Purpose": "The figure illustrates the various levers and handwheels on the carriage, essential for performing precise manual adjustments and feeding operations on the machine."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p033_img02_148.png": {
+    "Certainly! Here is the extracted metadata from the user manual page": "",
+    "**Section header": "** 9.2.5 Lever and handwheel of the tailstock",
+    "**Figure title": "** Figure 23 - Close-up of the lever",
+    "**Snippet": "** On the tailstock there are manual controls (levers, handwheels and screws) which allow fine adjustments and feed adjustments (see Figure 24). (Q) Lever for activating and selecting the direction of rotation of the electric motor: The lever selects activation and the direction of rotation...",
+    "**Purpose": "** The figure illustrates the close-up view of a lever, essential for operating and adjusting the machine, emphasizing its role in selecting motor direction and rotation."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p033_img03_150.png": {
+    "Sure, here is the extracted metadata": "",
+    "Section header": "9.2.5 Lever and handwheel of the tailstock",
+    "Figure title": "Figure 24 \u2013 Lever and handwheel of the tailstock.",
+    "Snippet": "On the tailstock there are manual controls (levers, handwheels and screws) which allow fine adjustments and feed adjustments (see Figure 24). (R) Quill locking lever: The lever allows the tailstock quill to be locked (located on the side not visible in Figure 24)",
+    "Purpose": "The figure illustrates the manual controls on the tailstock, which are essential for making precise adjustments to the machine's operation."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p034_img02_154.png": {
+    "I'm unable to view or extract specific information directly from an image file such as \"doc2_p034_img02_154.png\". However, I can guide you on how to manually extract and organize the information if the text is visible to you": "",
+    "1. **Section header": "** Look for the bold or highlighted text directly above the image, which will give you the section header.",
+    "2. **Figure title": "** This is usually written immediately below the image, often starting with \"Figure\" or \"Fig.\"",
+    "3. **Snippet": "** Read the paragraphs or sentences directly surrounding the figure title to find a descriptive snippet.",
+    "4. **Purpose": "** This usually can be inferred from the text surrounding the image, explaining what the image shows and why it is relevant."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p034_img03_156.png": {
+    "Sure, here is the structured information based on the provided context": "",
+    "Section header": "9.4 Digital display",
+    "Figure title": "Figure 26 - Close-up of the digital display.",
+    "Snippet": "The Gear head lathe 400V3A-T070 is equipped with a digital display that can monitor the dimensions X, Y and Z with a precision of 0.001. Furthermore it is possible to store different machining depths depending on the X coordinate in which the tool is located.",
+    "Purpose": "The figure illustrates the digital display crucial for precise monitoring and control of machining dimensions and depths on the lathe."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p034_img04_158.png": {
+    "Section header": "9.4 Digital display",
+    "Figure title": "Figure 26 - Close-up of the digital display.",
+    "Snippet": "At the front there are all the programming keys of the panel, while at the rear there are 1) on / off switch (I/0); 2) the three data cables, in order from top to bottom X Axis - Y Axis - Z Axis, from the sensors placed on the tool holder carriage; 3) the power supply cable. At the time of purchase, the display must be installed on the left side...",
+    "Purpose": "The figure illustrates the rear connections of the digital display, highlighting the on/off switch, data cables, and power supply, which are crucial for proper installation and operation of the machine."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p035_img03_162.png": {
+    "Section header": "9.4 Digital display",
+    "Figure title": "Figure 28 \u2013 Close-up of the display",
+    "Snippet": "The Gear head lathe 400V3A-T070 is equipped with a digital display that can monitor the dimensions X, Y and Z with a precision of 0.001. Furthermore, it is possible to store different machining depths depending on the X coordinate in which the tool is located. At the front, there are all the programming keys of the panel...",
+    "Purpose": "The figure illustrates the digital display controls and indicators, which are crucial for precise monitoring and adjustment of machining processes."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p035_img04_164.png": {
+    "Section header": "9.4 Digital display",
+    "Figure title": "Figure 27 \u2013 Panel adjustment",
+    "Snippet": "Pay attention to the correct connection of the data cables. If reversed they can cause erroneous readings by the digital display. The display can be rotated and tilted to allow the data to be viewed at any time. Rotation is achieved by simply moving it with one hand, and to adjust the angle, loosen the bolt located just below the power cord, tilt the panel and then retighten the bolt.",
+    "Purpose": "This figure illustrates the panel adjustment process, which is crucial for proper viewing and accurate data readings from the digital display."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p038_img02_172.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p038_img03_175.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p039_img02_180.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p039_img03_183.png": {
+    "Section header": "4- DEFAULT DATA",
+    "Figure title": "Figure 29 \u2013 Example of machining.",
+    "Snippet": "The default data allows continuous monitoring of the machining in operation. If, for example, it has a piece as shown in Figure 29/a) and you want to get the piece in Figure 29/b) you can set all the heights in order to precisely control the actual machining. To set the data, proceed as follows: ...",
+    "Purpose": "The figure illustrates the transformation of a workpiece from its initial state (a) to its desired final state (b), emphasizing the importance of precise data settings for accurate machining."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p040_img02_188.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p043_img02_197.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p043_img03_200.png": {
+    "I'm unable to directly access metadata from images or documents, but based on the provided text, here's the structured information": "",
+    "Section header": "7 \u2013 Radius / Diameter display",
+    "Figure title": "Figure 31 \u2013 Radius / Diameter display",
+    "Snippet": "The reference for axis X is the axis of spindle rotation (dashed line in Figure 31). Move the cutting tool to point A. Press the buttons to switch from viewing the radius to the diameter. Move the cutting tool to point B.",
+    "Purpose": "The figure illustrates how to switch between viewing the radius and diameter on the machine display, which is essential for accurate machining operations."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p044_img02_205.png": {
+    "Certainly! Here is the extracted metadata": "",
+    "Section header": "8 \u2013 Displaying Metric / Imperial coordinates",
+    "Figure title": "Figure 32 \u2013 Displaying Metric / Imperial coordinates",
+    "Snippet": "The digital panel can also show the coordinates of the X axis in Imperial units (inches), this display is not available for the Y axis. With reference to Figure 32, proceed as follows, to switch from Metric coordinates to Imperial coordinates.",
+    "Purpose": "The figure illustrates how to switch the display of coordinates from Metric to Imperial units to facilitate machine operation and enhance usability."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p046_img04_212.png": {
+    "Section header": "10 OPERATION",
+    "Figure title": "Figure 33 \u2013 Spindle key.",
+    "Snippet": "Before starting work in the vicinity of the spindle, ALWAYS check that the machine is stopped. It is recommended to not extend the continued use of the machine for more than 10 minutes to avoid overheating the machine (which could damage the motor) and the equipment.",
+    "Purpose": "The figure illustrates the spindle key used for securing workpieces on the spindle, which is crucial for safely operating the machine and preventing accidents."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p047_img03_216.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p049_img02_222.png": {
+    "Certainly! Here is the extracted metadata based on the given context": "",
+    "**Section header": "**",
+    "**Figure title": "**",
+    "**Snippet": "**",
+    "**Purpose": "**"
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p049_img03_224.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p050_img02_228.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p050_img04_230.png": {
+    "Section header": "10.1 Automatic Feed Tool Carriage",
+    "Figure title": "Figure 38 \u2013 Gears.",
+    "Snippet": "Before replacing the gears, turn off the machine, put the main switch in the \"0\" position. 1. Open the guard for the feed speed change gearbox, placed on the left part of the machine; 2. Unscrew the fastening nuts and disassemble the gears (see Figure 38); 3. Position the relative gears for the feed desired, check they fit perfectly and tighten the fastening nuts; 4. Close the guard of the gearbox.",
+    "Purpose": "The figure illustrates the gears necessary for adjusting the machine's feed speed, which is important for ensuring proper operation and safety during use."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p053_img02_238.png": {
+    "Sure! Here's the extracted and structured metadata": "",
+    "Section header": "11.1 Lubrication",
+    "Figure title": "Figure 39 \u2013 Lubrication points on the machine",
+    "Snippet": "For proper lubrication of the Lathe, proceed as follows (see Figure 39): Top up the level ONNCCEEO AA DDAAYY Oil level windows Figure 39 \u2013 Lubrication points on the machine. Ref Parts of the machine Lubrication point Type of lubricant Frequency Replacement frequency...",
+    "Purpose": "The figure illustrates the lubrication points on the lathe, highlighting where and how often lubrication is required to ensure the machine's efficient operation and longevity."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p054_img03_242.png": {
+    "Sure, here is the structured metadata extracted from the provided manual page": "",
+    "**Section header": "** 11.3 Adjusting the Machine",
+    "**Figure title": "** Figure 40 \u2013 Drive belts",
+    "**Snippet": "** \u201cProper belt tension reduces wear and increases the production of the machine.\u201d",
+    "**Purpose": "** The figure illustrates the configuration of the drive belts to guide users in adjusting their tension, which is crucial for maintaining machine efficiency and longevity."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p055_img02_246.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p055_img03_248.png": {
+    "Section header": "11.3.3 Spindle alignment",
+    "Figure title": "Figure 42 \u2013 Spindle alignment",
+    "Snippet": "\"The bearing that supports the spindle is tapered, to carry out the adjustment, proceed as follows (see Figure 42): 1. Loosen the bearing lock nut; 2. Tighten the bearing adjustment nut; 3. Test the spindle by rotating it, and \u2014 by means of a comparator (See Point 4 of Chapter 10) \u2014 make sure it rotates perfectly.\"",
+    "Purpose": "The figure illustrates the spindle alignment process, which is crucial for ensuring precision in the machine's operation and reducing wear."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p056_img02_253.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p057_diag.png": {
+    "I'm unable to extract all the metadata directly from the image, but here is an analysis based on visible elements": "",
+    "Section header": "12 Replacement Parts",
+    "Figure title": "Table A",
+    "Snippet": "Since I can't access the surrounding text, I'm unable to provide a snippet. This would typically involve nearby descriptions or instructions related to the illustration.",
+    "Purpose": "The figure provides a detailed exploded diagram of replacement parts for the machine, essential for identifying and assembling each component correctly."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p058_diag.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p059_img02_280.png": {
+    "Based on the context you\u2019ve given, here\u2019s a structured format you could fill with data based on what you find in the manual": "",
+    "Section header": "[Insert the most recent section heading here, e.g., \"2.1 Technical Warnings\"]",
+    "Figure title": "Figure [X] \u2013 [Title from the manual, e.g., \"Speed Adjustment Panel\"]",
+    "Snippet": "[Insert a 200\u2013400 character text snippet from the manual surrounding the figure title. It should provide context about the illustration.]",
+    "Purpose": "This figure illustrates [describe what the figure shows and its importance, e.g., \"the assembly of the speed adjustment panel, crucial for ensuring accurate machine speed settings.\"]"
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p061_diag.png": {
+    "Section header": "TABLE B",
+    "Figure title": "Not present.",
+    "Snippet": "The diagram provides a detailed exploded view of the assembly, highlighting each component's position and relation to others. It serves as a crucial guide for repairing or assembling the machine, ensuring that each part is correctly aligned and connected.",
+    "Purpose": "The figure illustrates an exploded view of the machine's components, which is essential for understanding assembly and disassembly procedures."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p062_diag.png": {
+    "I'm unable to provide the exact metadata without seeing the entire surrounding text, but here's a general outline based on what you might expect": "",
+    "Section header": "Not available from image.",
+    "Figure title": "Not available from image.",
+    "Snippet": "Not available from image.",
+    "Purpose": "The figure likely illustrates an exploded view of machine components, which is important for understanding assembly and part identification."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p063_img02_309.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p063_img03_312.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p065_diag.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p066_diag.png": {
+    "Section header": "[This would be found in the text preceding the diagram, likely in the upper sections of the manual page or previous pages.]",
+    "Figure title": "[Look for a label directly associated with the diagram, often found below or above it.]",
+    "Snippet": "[Select a nearby text segment that incorporates the title or reference to the diagram, retaining proper context.]",
+    "Purpose": "This diagram likely illustrates the assembly and components of a specific machine part, crucial for understanding installation or repair procedures."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p067_diag.png": {
+    "I'm unable to read the text directly from images. However, based on the typical structure of machine manuals and the illustration, I can provide a general response template": "",
+    "Section header": "[Section header from surrounding text, if applicable]",
+    "Figure title": "[Figure title, e.g., \"Figure X \u2013 Component Assembly Diagram\"]",
+    "Snippet": "[Excerpt of text surrounding the image that describes the figure, approximately 200\u2013400 characters]",
+    "Purpose": "The figure illustrates the detailed assembly of a machine component, which is crucial for troubleshooting, maintenance, and understanding the internal mechanics of the device."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p070_diag.png": {
+    "I'm unable to analyze or summarize content from images of user manuals directly. However, based on the structure you provided, I can help guide you on what to look for": "",
+    "1. **Section header**": "This is generally found at the top of the section or page, and it could be \"MACHINES AND ACCESSORIES\" if that's the main section title visible.",
+    "2. **Figure title**": "Search for any label near the illustration, often starting with \"Figure\" or similar terminology, indicating what the diagram represents. If \"TABLE D\" is the title near the diagram, this could be the figure title.",
+    "3. **Snippet**": "Identify a block of text surrounding the figure title. It should describe or elaborate on the illustration.",
+    "4. **Purpose**": "Interpret what the diagram shows based on the parts listed. This could be something like, \"The figure illustrates the assembly and parts layout for a specific machine component, essential for understanding machine maintenance and repair.\""
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p071_diag.png": {
+    "However, based on typical content layout": "",
+    "Section header": "I cannot determine the exact section header.",
+    "Figure title": "I cannot determine the exact figure title.",
+    "Snippet": "I cannot provide a text snippet surrounding the figure as I can't extract text from the image.",
+    "Purpose": "The illustration likely details the components and assembly of a machine part, useful for understanding assembly or repair instructions."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p074_diag.png": {
+    "Section header": "Table E",
+    "Figure title": "None",
+    "Snippet": "The illustration depicts a detailed exploded view of a machine component assembly with various parts labeled, including screws, rods, and supports. This figure provides a visual guide for assembling or disassembling the machine parts as referenced in the parts list alongside it.",
+    "Purpose": "The figure illustrates the assembly of specific machine components, which is essential for accurate maintenance, troubleshooting, or part replacement."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p075_diag.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p077_diag.png": {
+    "Section header": "Machines and Accessories",
+    "Figure title": "Table F",
+    "Snippet": "The illustration in Table F provides a detailed breakdown of various machine components, including labeled parts such as screws, bearings, and adjustment screws. It serves as a guide for assembling or repairing machinery by visually identifying each part with its corresponding number for easy reference.",
+    "Purpose": "The figure illustrates an exploded view of machine components, aiding users in assembly and maintenance by clearly showing the arrangement and identification of parts."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p078_img02_411.png": {},
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/page_images/doc2_p079_diag.png": {
+    "I'm unable to directly extract all the metadata because the image provided is a technical illustration, and I can't access the full manual context. However, I can offer a structured response based on general analysis": "",
+    "Section header": "Machines and Accessories",
+    "Figure title": "[Not explicitly provided in the visible segment]",
+    "Snippet": "[Not enough text context surrounding the figure title is available in the visible portion]",
+    "Purpose": "The illustration likely provides a detailed breakdown of machine components labeled Table G and Table H, crucial for assembly or maintenance understanding."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p083_img02_429.png": {
+    "I'm unable to identify details within images, such as individuals or specific figures, but I can help structure the information based on the text you provided. Here's the structured format": "",
+    "Section header": "15 ELECTRIC CIRCUIT",
+    "Figure title": "Figure not explicitly labeled in provided context.",
+    "Snippet": "The diagram appears with labels for components like \"400V 50Hz POWER SWITCH\" and \"SP MOTOR\", indicating part of the system layout.",
+    "Purpose": "The figure illustrates the electrical wiring diagram for a machine's SP motor system, crucial for understanding and troubleshooting the machine's electrical setup."
+  },
+  "/Users/jatinbomrasipeta/Desktop/propel_rag_chatbot/data/images/doc2_p084_img02_434.png": {
+    "Section header": "15 ELECTRIC CIRCUIT",
+    "Figure title": "Figure 15.2 \u2013 Wiring Diagram for Art. T999/230V",
+    "Snippet": "The illustration displayed under Figure 15.2 provides a comprehensive wiring diagram for the machine model Art. T999/230V. It details the connections and power flow between various components such as the power switch, motors, transformer, and relays, ensuring proper assembly and troubleshooting steps for users.",
+    "Purpose": "The figure illustrates the wiring diagram for model Art. T999/230V, crucial for ensuring correct electrical connections and facilitating troubleshooting and maintenance in the manual."
+  }
+}

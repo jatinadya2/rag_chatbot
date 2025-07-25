@@ -1,0 +1,21 @@
+1
+
+
+
+
+
+                         Figure 26 - Close-up of the digital display.
+
+At the front there are all the programming keys of the panel, while at the rear there arefervi.com1)   on / off switch (I/0);
+2)    the three data cables, in order from top to bottom X Axis - Y Axis - Z Axis, from the
+sensors placed on the tool holder carriage;
+3)    the power supply cable.
+At the time of purchase, the display must be installed on the left side of the lathe, using the
+bracket supplied.
+The power cord must be connected to a 230V / 50 Hz plug equipped with a grounding
+conductor.
+
+
+
+
+ Page 34 of 84

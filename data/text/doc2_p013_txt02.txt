@@ -1,0 +1,8 @@
+1  Brake           9  Protective device         17 Tailstock handwheel
+    2  Carriage handwheel 10 Halogen lamp           18 Support bars
+    3  Workbench       11 Turret                19 Lead screw
+    4  Speed switches    12 Coolant tube            20 Turning bar
+    5  Side cover        13 Longitudinal   turret   travel 21 Bar for lathe activation
+                         (mm)
+    6  Control panel      14 Micrometer             22 Tray
+    7  Electrical controls   15 Tailstock block          23 Transmission activation lever;fervi.com    8  3-jaw lathe spindle  16 Guides               24  Digital display

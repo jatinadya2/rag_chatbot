@@ -1,0 +1,21 @@
+Figure 25 – Pedal Details.
+9.4 Digital display
+The Gear head lathe 400V3A-T070 is equipped with a digital display that can monitor the
+dimensions X, Y and Z with a precision of 0.001.
+Furthermore it is possible to store different machining depths depending on the X coordinate
+in which the tool is located.
+
+
+
+
+                                                                              2
+
+                                                                    3
+
+                                                         1
+
+
+
+
+
+                         Figure 26 - Close-up of the digital display.

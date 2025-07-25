@@ -1,0 +1,21 @@
+MACHINES AND
+                                                         ACCESSORIES
+
+
+1- Self-test
+The display shows the following messages:
+
+                    Model                       Use with lathe*
+          S D S 2   5       X  L A T H E
+
+              3     5       Y
+
+              3     5        Z
+                   Axis number      Resolution
+
+* "Lathe" is specified because the panel can be programmed for other tool machines.
+At the end of the self-diagnostic the display shows the following messages:
+
+                                                                It could be “INC” “ALE”
+                                            “ZER”
+               0. 0 0 0   X  A L E

@@ -1,0 +1,9 @@
+Figure 37 – Longitudinal feed with the lead screw.
+The change of feed speed of the Gear head lathe (Art. LC340/1000) is mixed: mechanical
+with knobs for speed selection (see section 9.2.2) and with replaceable gears.
+To carry out the replacement of the gears, proceed as described below:
+
+
+      Risk of Crushing
+
+Before replacing the gears, turn off the machine, put the main switch in the "0" position .

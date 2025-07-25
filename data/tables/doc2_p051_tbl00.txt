@@ -1,0 +1,6 @@
+Daily checks i | 
+1 | Check that all moving parts are well
+2 | Clean the surface of the spindle, the turret and the body of the machine. v
+3 | Check that there are no objects / tools near the moving parts. r
+4 | Check the operation of the manually operated handwheels. e
+5 | Check the wear of the guide rails. f

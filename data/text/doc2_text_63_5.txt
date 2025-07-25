@@ -1,0 +1,8 @@
+T999/B048    Key                     T999/B096     Shaft
+  T999/B097     Pin                      T999/B105      Bolt
+  T999/B098    Screw                   T999/B106    Washer
+  T999/B099    Washer                  T999/B107     Screw
+  T999/B100     Bearing                  T999/B108      Bolt
+  T999/B101     Stop                     T999/B109    Washer
+  T999/B102    Gear                    T999/B110     Gear
+  T999/B103     Bearing                  T999/B111    Washerfervi.comT999/B104    Gear cover               T999/B112      Allen key

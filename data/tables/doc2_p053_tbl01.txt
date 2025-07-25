@@ -1,0 +1,10 @@
+Ref . | Parts of the machine | v | Type of lubricant | Frequency | Replacemen t frequency
+1 | Feed shaft and lead screw bearings: | r |  | Daily | /
+2 | Transverse feed casing e |  | Oil | Daily | /
+3 | f |  | Oil | Daily | /
+4 |  | 2 | Oil | Daily | /
+5 | Longitudinal slide | 3 | Oil | Daily | /
+6 | Longitudinal feed handwheel | 1 | Oil | Daily | /
+7 | Transverse feed handwheel | 1 | Oil | Daily | /
+8 | Tool carriage | 1 | Oil 20 | Level indicator | 6 months
+9 | Spindle gears | 1 | Oil 20 | Level indicator | 6 months

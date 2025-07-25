@@ -1,0 +1,24 @@
+-    3 0. 0 0 0 Y
+
+
+
+
+                                                                              CLS
+      -  Reset the Y display by pressing the     and      buttons.
+
+               0. 0 0 0 X  I N C
+
+               0. 0 0 0 Y
+
+      -  Move the cutting tool to the A plane.
+
+                0. 0 0 0 X  I N Cfervi.com
+              2 0. 0 0 0 Y
+
+
+
+
+
+                  -  Press the     button (to switch to the absolute coordinates)
+
+                                                                                      Page 41 of 84

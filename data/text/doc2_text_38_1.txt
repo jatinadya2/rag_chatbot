@@ -1,0 +1,22 @@
+-  Press the button      to set height 5.
+
+                .       Y
+                           
+         -      5. 0 0 0 Y
+
+
+                5             ±      -  Press the      button then the      button to choose the negative direction of the
+       machining (towards the spindle ).
+
+
+ If an incorrect value is entered, press      again to enter the correct value.
+
+      -  Start machining until the display shows -13.
+
+         -     1 3. 0 0 0 Yfervi.com
+
+
+
+
+
+                                                                                      Page 39 of 84

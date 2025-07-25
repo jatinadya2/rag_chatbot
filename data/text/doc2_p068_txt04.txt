@@ -1,0 +1,9 @@
+T999/C024   Locking nut               T999/C078    Gasket
+  T999/C025   Gear 43z                 T999/C079    Gasket
+  T999/C026   Gear 51z                 T999/C080    Gasket
+  T999/C028   Shaft 16z                 T999/C081     Oil level window
+  T999/C029   Washer                   T999/C084    Allen key M4 x 12
+  T999/C030   Washer                   T999/C085    Allen key M4 x 12
+  T999/C031   Shaft                    T999/C086    Allen key M4 x 12
+  T999/C032   Washer                   T999/C087    Allen key M4 x 12
+  T999/C033   Gear 21z                 T999/C088    Allen key M4 x 12fervi.comT999/C034   Gear 29z                 T999/C089    Allen key M4 x 12

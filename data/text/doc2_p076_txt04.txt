@@ -1,0 +1,10 @@
+T999/E025     Plate                    T999/E067    Shaft gear
+  T999/E026     Plate                    T999/E069    Bearing
+  T999/E027     Plate                    T999/E070     Allen key
+  T999/E028    Screw                   T999/E071    Lever
+  T999/E029    Washer                  T999/E072    Handle
+  T999/E030     Turret base              T999/E073    Spacer
+  T999/E031    Adjustment screw         T999/E074    Key
+  T999/E032    Adjustment screw         T999/E075    Screw
+  T999/E033    Switch                  T999/E076    Keyfervi.comT999/E034    Gib                     T999/E077    Thrusting bearing
+  T999/E035    T bolts                  T999/E078    Bearing housing

@@ -1,0 +1,6 @@
+section), on the outer contour of the spindle. For a more detailed
+explanation on this subject, see section 10 of this manual.
+The danger zone, in the vicinity of the spindle, is protected by a
+moveable interlocking guard (see figure 3), which consists of a tin
+screen plate with micro-safety switch.
+                                                                    Figure 3 – Spindle

@@ -1,0 +1,17 @@
+-  Move the cutting tool to point B.
+
+              2 0. 0 0 0 X
+
+
+
+               X      -  Press the     and      buttons to switch from viewing the diameter to the radius.
+
+              1 0. 0 0 0 Xfervi.com
+ If the word "DIR" appears this means that on the X-axis the diameter of the workpiece is
+ being displayed. The Y-axes only have one display mode.
+
+
+
+
+
+                                                                                      Page 43 of 84

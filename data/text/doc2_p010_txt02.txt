@@ -1,0 +1,19 @@
+Range of inch threads (mm)                            2 ¼  - 40
+
+   Range of longitudinal feeds (mm)                             00.78- 1.044
+
+   Range of transverse feeds (mm)                              0.022- 0.298
+
+   Outer diameter of the feed screw (mm)                         22
+
+   Guide length (mm)                                        1390
+
+   Cross carriage travel (mm)                                  200
+
+    Tailstock sleeve diameter (mm)                               32
+
+  Maximum travel of the tailstock sleeve (mm)                    80
+
+   Inner taper                                      CM 5
+
+    Tailstock base length (mm)                                  165

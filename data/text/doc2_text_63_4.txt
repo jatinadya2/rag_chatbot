@@ -1,0 +1,11 @@
+T999/B040      Oil level                  T999/B088     Gasket
+  T999/B041     Label                    T999/B089     Gear
+  T999/B042     Lock                     T999/B090     Shaft
+  T999/B043     Bearing protection         T999/B091     Brass bushing
+  T999/B044     Gasket                   T999/B092     Gear
+  T999/B045    Washer                  T999/B093     Gasket
+  T999/B046    Key                     T999/B094     Bearing cover
+  T999/B047     Shaft 7                  T999/B095     Ring
+  T999/B048    Key                     T999/B096     Shaft
+  T999/B097     Pin                      T999/B105      Bolt
+  T999/B098    Screw                   T999/B106    Washer

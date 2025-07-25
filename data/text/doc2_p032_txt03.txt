@@ -1,0 +1,7 @@
+allows the quick longitudinal displacement, to the right and left, of the tool holder slide. To
+move the slide to the left (towards the spindle), turn the handwheel clockwise and vice versa
+to move the slide to the right (towards the tailstock), rotate the handwheel anticlockwise.
+(L) Handwheel for longitudinal movement of the carriage: The handwheel allows the
+quick longitudinal displacement, to the right and left, of the tool holder carriage. To move the
+carriage to the right (towards the tailstock), turn the handwheel clockwise and vice versa to
+move the carriage to the left (towards the spindle), rotate the handwheel anticlockwise.

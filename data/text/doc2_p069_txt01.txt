@@ -1,0 +1,11 @@
+Part No.    Description               Part No.     Description
+   T999/C042   Gear 74z                 T999/C102    Nut M12
+   T999/C043   Gear 37z                 T999/C103   Key 5 x 15
+   T999/C044   Shaft                    T999/C104   Key 5 x 18
+   T999/C045   Spring                   T999/C105   Key5 x 50
+   T999/C106   Key 6 x 40                T999/C131    O_Ring
+   T999/C107   Key 6 x 55                T999/C132    O_Ring
+   T999/C108   Key 6 x 120               T999/C133    O_Ring
+   T999/C109   Key 6 x 120               T999/C134    O_Ring
+   T999/C110   Key 6 x 18                T999/C135    O_Ring
+   T999/C111   Key 5 x 20                T999/C136    O_Ring

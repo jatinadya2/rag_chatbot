@@ -1,0 +1,14 @@
+4.2.3 Spindle speed adjustment levers
+The panel for the adjustment of the spindle rotation speed (see
+figure 4), is positioned at the left part of the machine, between the
+spindle and the feeding speed change gearbox. It is equipped with
+two levers for selection of the desired rotation speed, depending on
+the type of processing and the material.fervi.com
+                                                                    Figure  4  –  Speed
+                                                              adjustment lever.
+
+
+
+
+
+ Page 14 of 84

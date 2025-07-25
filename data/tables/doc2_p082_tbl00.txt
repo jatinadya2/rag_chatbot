@@ -1,0 +1,5 @@
+PROBLEM | PROBABLE CAUSE | SOLUTION
+Noisy operation | A) Damaged bearings. B) Bearings not lubricated. C) Blunt tool. D) Loose tool. | B) Contact Customer Service. C) Lubricate D) Remove/sharpen the tool. E) Tighten the fastening lever.
+The motor will not start. | A) Electrical power supply. B) Wiring connections C) Burnt motor windings. D) Blown fuses. E) Broken switch. | A) m Contact technical support. o c
+The tool "softens" or overheats much. e | A) Shavings will not discharge. . i v D) Needs lubrication. r | Apply less pressure. B) Clean the machine. C) Check the tool sharpness and wear. D) Lubricate as you work.
+The not f correctly | cables not connected Compensation factor is incorrect. F) C) Setting unit is not correct. | A) Check the correct connection of data cables X, Y, Z at the rear of the panel. B) Proceed with the deciding the compensation factor and setting of the panel. C) Check to see if the display unit is Metric or Imperial.

@@ -1,0 +1,8 @@
+(R)   Quill locking lever: The lever allows the tailstock quill to be locked (located on the
+ side not visible in Figure 24)
+ (S)  Handwheel for longitudinal movement of the quill: The handwheel allows the
+ quick longitudinal displacement, to the right and left, of the tailstock quill. To move the quill
+ to the left (towards the spindle), turn the handwheel clockwise and vice versa to move the
+ quill to the right, rotate the handwheel anticlockwise.
+ (T)   Tailstock transverse adjusting screw: The screw allows for adjustments to the
+ transverse centring of the tailstock. To move the tailstock forward (away from the operator),

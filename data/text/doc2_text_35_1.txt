@@ -1,0 +1,20 @@
+It could be “INC” “ALE”
+                                            “ZER”
+               0. 0 0 0   X  A L E
+
+               0. 0 0 0   Y
+
+               0. 0 0 0   Z
+
+2 – Setting the system
+
+                                  .
+Pressing the      button during the self-diagnostic process, starts the setting mode, which
+begins as soon as the first phase has finished.
+     -  Setting the X-axis resolution:
+
+               current resolution
+                     5    X  X   r e s l N
+
+In this way, the desired resolution is set for the X axis, using the numbers on the panel
+according to the following scheme:

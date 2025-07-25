@@ -1,0 +1,10 @@
+ENT         -  After the selection press the     and     buttons to move to the next step.
+
+By integrating the Y and Z dimensions (movements on the same axis)  only one
+dimension (Y-axis) will be displayed, which will vary depending on whether you are
+operating the handwheel  for  longitudinal movement  of the  carriage,  or the
+handwheel for longitudinal movement of the turret.
+
+                                                                                                     CLS    -  Press the     button twice to activate the auto-diagnostic function. Press      to finish
+      the setting process.
+      A)

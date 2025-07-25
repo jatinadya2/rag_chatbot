@@ -1,0 +1,8 @@
+(I)   Split casing lever : See section 9.2.3.
+(J)   Lever for selection of transverse or longitudinal feeds: The lever selects the type
+of automatic feed desired. To operate the transverse feed, forward and backward, move the
+lever to the right (toward the tailstock), to operate the longitudinal feed, left and right, move
+the lever to the left (toward the spindle).
+(K) Handwheel for longitudinal displacement of the tool holder slide: The handwheel
+allows the quick longitudinal displacement, to the right and left, of the tool holder slide. To
+move the slide to the left (towards the spindle), turn the handwheel clockwise and vice versa
